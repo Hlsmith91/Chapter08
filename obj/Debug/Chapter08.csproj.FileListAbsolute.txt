@@ -1,0 +1,17 @@
+C:\Users\marzi\Desktop\Chapter08\Chapter08\bin\Debug\Chapter08.exe.config
+C:\Users\marzi\Desktop\Chapter08\Chapter08\bin\Debug\Chapter08.exe
+C:\Users\marzi\Desktop\Chapter08\Chapter08\bin\Debug\Chapter08.pdb
+C:\Users\marzi\Desktop\Chapter08\Chapter08\obj\Debug\Chapter08.csprojResolveAssemblyReference.cache
+C:\Users\marzi\Desktop\Chapter08\Chapter08\obj\Debug\Chapter08.csproj.CoreCompileInputs.cache
+C:\Users\marzi\Desktop\Chapter08\Chapter08\obj\Debug\Chapter08.exe
+C:\Users\marzi\Desktop\Chapter08\Chapter08\obj\Debug\Chapter08.pdb
+E:\Chapter08\Chapter08\bin\Debug\Chapter08.exe.config
+E:\Chapter08\Chapter08\obj\Debug\Chapter08.exe
+E:\Chapter08\Chapter08\obj\Debug\Chapter08.pdb
+G:\Chapter08\Chapter08\bin\Debug\Chapter08.exe.config
+G:\Chapter08\Chapter08\bin\Debug\Chapter08.exe
+G:\Chapter08\Chapter08\bin\Debug\Chapter08.pdb
+G:\Chapter08\Chapter08\obj\Debug\Chapter08.csprojAssemblyReference.cache
+G:\Chapter08\Chapter08\obj\Debug\Chapter08.csproj.CoreCompileInputs.cache
+G:\Chapter08\Chapter08\obj\Debug\Chapter08.exe
+G:\Chapter08\Chapter08\obj\Debug\Chapter08.pdb
